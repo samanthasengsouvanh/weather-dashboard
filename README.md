@@ -16,10 +16,10 @@ The application should pull data from the weather api according to the user's in
 
 https://samanthasengsouvanh.github.io/weather-dashboard/
 
-# Author
+## Author
 
 Samantha Sengsouvanh - Initial work 
 
-# License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
